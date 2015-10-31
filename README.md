@@ -1,4 +1,4 @@
-##仿微信安卓版的tabBar (Objective-C 实现)
+##仿安卓版微信的tabBar (Objective-C 实现)
 
 说明：
 
